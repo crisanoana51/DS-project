@@ -1,0 +1,5 @@
+ds\simulator\config\RabbitConfig.class
+ds\simulator\controllers\RabbitController.class
+ds\simulator\rabbitMq\MessageSender.class
+ds\simulator\rabbitMq\MyMessage.class
+ds\simulator\SimulatorApplication.class
